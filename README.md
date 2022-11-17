@@ -1,4 +1,4 @@
-# Ffuffer - A GUI fuzzing tool built on ffuff.
+# FFuffer - A GUI fuzzing tool built on ffuff.
 
 <br>
 
