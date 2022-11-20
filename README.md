@@ -18,7 +18,7 @@ cd ffuffer
 yarn
 ```
 
-**Having issues installing? See our [debugging guide](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/400)**
+**You will need the [ffuf](https://github.com/ffuf/ffuf) intalled to use this GUI.**
 
 ## Starting Development
 
